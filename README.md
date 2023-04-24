@@ -1,2 +1,2 @@
 # Survey-form
-A survey form to conduct a survey for generating a report so that it can be analyse.
+A Google form to conduct a survey for generating a report so that it can be analyse.
